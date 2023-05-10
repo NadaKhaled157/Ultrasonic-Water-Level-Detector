@@ -10,7 +10,7 @@
 ## Project Overview
 A water-level detector using an ultrasonic sensor. The sensor is fixed above our tank and can detect water level based on the time it takes for a wave to reflect off of the water's surface. This project is done under the scope of Medical Physics course.
 ## Application Idea
-Monitoring fluid levels, especially water is a detrimental task in medical institutes such as
+<p align="justify"> Monitoring fluid levels, especially water is a detrimental task in medical institutes such as
 hospitals and clinics. Fluids that are attached to patients and medical machines must always be
 monitored to ensure continuous supply and avoid unwanted complications. The water level
 indicator using ultrasonic sensor is an application of the acoustic device to help determine the
@@ -22,7 +22,8 @@ the velocity is constant, we can do a simple calculation to get the distance bet
 and the water level. Furthermore, output is connected to three light bulbs, each with its own
 signal queue for low, medium, and high water supply, depending on the distance between the
 sensor and the water level. When the water supply becomes low, the buzzer starts ringing to alert
-staff to refill the tank.
+staff to refill the tank. </p>
+
 ## Parameters 
 The table below shows the parameters related to the ultrasonic signal that the sensor transmits
 and their corresponding values for the sensor version we are using, which is HC-SRO4.
